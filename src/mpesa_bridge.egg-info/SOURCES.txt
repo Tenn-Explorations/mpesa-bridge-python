@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/mpesa_bridge/__init__.py
+src/mpesa_bridge/client.py
+src/mpesa_bridge.egg-info/PKG-INFO
+src/mpesa_bridge.egg-info/SOURCES.txt
+src/mpesa_bridge.egg-info/dependency_links.txt
+src/mpesa_bridge.egg-info/top_level.txt
