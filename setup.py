@@ -29,4 +29,5 @@ setup(
     include_package_data=True,
     py_modules=["client"],
     package_dir={"": "src"},
+    install_requires=installed_packages,
 )
