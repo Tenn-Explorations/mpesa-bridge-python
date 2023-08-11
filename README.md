@@ -28,6 +28,7 @@ client = Client(api_key=API_KEY, base_url=BASE_URL)
 
 Now you are ready to perform transactions.
 ```python
+# NB: The first parameter for request payment is amount of money you want to charge.
 response = client.request_payment(2000, "2547XXXXXXXX")
 
 print(response)
